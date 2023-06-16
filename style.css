@@ -1,0 +1,84 @@
+body
+{
+    text-align: center;
+}
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#ebd260 0%, #e87a36 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#bio {
+    font-family: 'Cinzel Decorative', cursive;
+    padding: 50px;
+    text-align: center;
+}
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+
+
+#videos iframe
+{
+    width: 80%;
+}
+
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+.vida
+{
+    border: 1px solid rgb(192, 39, 39);
+}
+
+.vida img
+{
+  width: 100%;
+}
+
+.vidah5 , .vida p
+{
+margin: 20px;
+}
+.movie_head
+{
+ font-size: 20px;
+ padding: 6px 22px;
+ border-radius: 10px;
+ margin-top: 15px;
+}
+.movie_head i
+{
+float: right;
+}
+.movie_text span
+{
+    color: rgb(234, 162, 91);
+}
